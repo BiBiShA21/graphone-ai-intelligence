@@ -1,0 +1,4 @@
+﻿[tool.vercel]
+buildCommand = ""
+outputDirectory = "."
+
