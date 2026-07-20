@@ -1,21 +1,4 @@
 ﻿{
-  "buildCommand": "echo 'Static site - no build needed'",
-  "outputDirectory": ".",
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ],
-  "headers": [
-    {
-      "source": "/index.html",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=3600"
-        }
-      ]
-    }
-  ]
+  "buildCommand": "echo Static site",
+  "outputDirectory": "."
 }
