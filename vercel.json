@@ -1,0 +1,9 @@
+﻿{
+  "buildCommand": "pip install -r requirements.txt",
+  "runtime": "python3.11",
+  "functions": {
+    "api/index.py": {
+      "maxDuration": 60
+    }
+  }
+}
