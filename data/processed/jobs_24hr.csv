@@ -1,0 +1,207 @@
+title,company,url,source,published_date,description,is_remote,location,collected_at
+🆕 8 new frontend jobs matching your filter (score ≥ 70),ai-job-searcher,https://github.com/Zahrannnn/ai-job-searcher/issues/36,GitHub,2026-07-19T04:25:21+00:00Z,"## 8 new high-match frontend jobs found
+
+Top 15 matches (score >= 70):
+
+### Tech Lead Full-Stack Rails Engineer @ Mitre Media
+- **Score:** 100/100 — **USA, Canada, USA timezones** (5d ago)
+- **Source:** Remotive
+- **Skills:** api, CSS, docker, elasticsearch, fullstack
+- **Apply:** https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
+
+### Senior Product Engineer (Fullstack) @ Clipster
+- **Score:** 100/100 — **Europe, UK, Germany, France, European timez",True,Various,2026-07-19T16:32:43.612590Z
+[Incremental scraping P3.4] Re-anchor annotations and regenerate affected outputs after refresh,ReadWise,https://github.com/huangyingting/ReadWise/issues/1103,GitHub,2026-07-19T02:50:22+00:00Z,"## Outcome
+
+Move user-visible dependencies onto a validated replacement article version without silently corrupting highlights, notes, reading state, or derived assets.
+
+## Source and parent
+
+- Parent epic: #1080
+- Program epic: #1077
+- Design: [`docs/content/incremental-provider-scraping-design.md`](docs/content/incremental-provider-scraping-design.md)
+
+## Governing invariant
+
+Normal incremental ingestion processes only article identities first observed after a completed source baseline. It mus",True,Various,2026-07-19T16:32:43.612590Z
+[Incremental scraping P3.2] Add bounded low-priority historical backfill,ReadWise,https://github.com/huangyingting/ReadWise/issues/1101,GitHub,2026-07-19T02:50:18+00:00Z,"## Outcome
+
+Let administrators explicitly fill a known historical interval without turning normal source recovery into an unbounded archive crawl.
+
+## Source and parent
+
+- Parent epic: #1080
+- Program epic: #1077
+- Design: [`docs/content/incremental-provider-scraping-design.md`](docs/content/incremental-provider-scraping-design.md)
+
+## Governing invariant
+
+Normal incremental ingestion processes only article identities first observed after a completed source baseline. It must never automatically ",True,Various,2026-07-19T16:32:43.612590Z
+"[Incremental scraping P2.5] Atomically save Article, candidate outcome, and downstream jobs",ReadWise,https://github.com/huangyingting/ReadWise/issues/1095,GitHub,2026-07-19T02:50:11+00:00Z,"## Outcome
+
+Turn one fully validated new candidate into exactly one draft Article and its required durable follow-up work.
+
+## Source and parent
+
+- Parent epic: #1079
+- Program epic: #1077
+- Design: [`docs/content/incremental-provider-scraping-design.md`](docs/content/incremental-provider-scraping-design.md)
+
+## Governing invariant
+
+Normal incremental ingestion processes only article identities first observed after a completed source baseline. It must never automatically refetch, update, recreat",True,Various,2026-07-19T16:32:43.612590Z
+"[Incremental scraping P2.4] Enforce hostname limits, provider fairness, priorities, and cost budgets",ReadWise,https://github.com/huangyingting/ReadWise/issues/1094,GitHub,2026-07-19T02:50:10+00:00Z,"## Outcome
+
+Protect providers and product budgets while keeping low-cost discovery alive and new-article work ahead of historical work.
+
+## Source and parent
+
+- Parent epic: #1079
+- Program epic: #1077
+- Design: [`docs/content/incremental-provider-scraping-design.md`](docs/content/incremental-provider-scraping-design.md)
+
+## Governing invariant
+
+Normal incremental ingestion processes only article identities first observed after a completed source baseline. It must never automatically refetch, up",True,Various,2026-07-19T16:32:43.613585Z
+"[Incremental scraping P2.3] Add propagation retries, quarantine, and extractor-version reactivation",ReadWise,https://github.com/huangyingting/ReadWise/issues/1093,GitHub,2026-07-19T02:50:09+00:00Z,"## Outcome
+
+Recover newly announced articles that are temporarily unavailable while preventing deterministic failures from consuming resources forever.
+
+## Source and parent
+
+- Parent epic: #1079
+- Program epic: #1077
+- Design: [`docs/content/incremental-provider-scraping-design.md`](docs/content/incremental-provider-scraping-design.md)
+
+## Governing invariant
+
+Normal incremental ingestion processes only article identities first observed after a completed source baseline. It must never automatic",True,Various,2026-07-19T16:32:43.613585Z
+[Incremental scraping P2.1] Atomically enqueue candidate-based ARTICLE_INGEST work,ReadWise,https://github.com/huangyingting/ReadWise/issues/1091,GitHub,2026-07-19T02:50:05+00:00Z,"## Outcome
+
+Create durable ingestion work in the same transaction that records an eligible candidate and advances its discovery checkpoint.
+
+## Source and parent
+
+- Parent epic: #1079
+- Program epic: #1077
+- Design: [`docs/content/incremental-provider-scraping-design.md`](docs/content/incremental-provider-scraping-design.md)
+
+## Governing invariant
+
+Normal incremental ingestion processes only article identities first observed after a completed source baseline. It must never automatically refetch",True,Various,2026-07-19T16:32:43.613585Z
+[Incremental scraping P1.7] Add leased DiscoverySource scheduling to the worker,ReadWise,https://github.com/huangyingting/ReadWise/issues/1087,GitHub,2026-07-19T02:50:00+00:00Z,"## Outcome
+
+Have the existing worker safely claim and run independently scheduled discovery sources across multiple instances.
+
+## Source and parent
+
+- Parent epic: #1078
+- Program epic: #1077
+- Design: [`docs/content/incremental-provider-scraping-design.md`](docs/content/incremental-provider-scraping-design.md)
+
+## Governing invariant
+
+Normal incremental ingestion processes only article identities first observed after a completed source baseline. It must never automatically refetch, update, rec",True,Various,2026-07-19T16:32:43.613585Z
+🆕 8 new frontend jobs matching your filter (score ≥ 70),ai-job-searcher,https://github.com/Zahrannnn/ai-job-searcher/issues/36,GitHub,2026-07-19T04:25:21+00:00Z,"## 8 new high-match frontend jobs found
+
+Top 15 matches (score >= 70):
+
+### Tech Lead Full-Stack Rails Engineer @ Mitre Media
+- **Score:** 100/100 — **USA, Canada, USA timezones** (5d ago)
+- **Source:** Remotive
+- **Skills:** api, CSS, docker, elasticsearch, fullstack
+- **Apply:** https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
+
+### Senior Product Engineer (Fullstack) @ Clipster
+- **Score:** 100/100 — **Europe, UK, Germany, France, European timez",True,Various,2026-07-19T16:32:45.978523Z
+[Incremental scraping P3.4] Re-anchor annotations and regenerate affected outputs after refresh,ReadWise,https://github.com/huangyingting/ReadWise/issues/1103,GitHub,2026-07-19T02:50:22+00:00Z,"## Outcome
+
+Move user-visible dependencies onto a validated replacement article version without silently corrupting highlights, notes, reading state, or derived assets.
+
+## Source and parent
+
+- Parent epic: #1080
+- Program epic: #1077
+- Design: [`docs/content/incremental-provider-scraping-design.md`](docs/content/incremental-provider-scraping-design.md)
+
+## Governing invariant
+
+Normal incremental ingestion processes only article identities first observed after a completed source baseline. It mus",True,Various,2026-07-19T16:32:45.979619Z
+[Incremental scraping P3.2] Add bounded low-priority historical backfill,ReadWise,https://github.com/huangyingting/ReadWise/issues/1101,GitHub,2026-07-19T02:50:18+00:00Z,"## Outcome
+
+Let administrators explicitly fill a known historical interval without turning normal source recovery into an unbounded archive crawl.
+
+## Source and parent
+
+- Parent epic: #1080
+- Program epic: #1077
+- Design: [`docs/content/incremental-provider-scraping-design.md`](docs/content/incremental-provider-scraping-design.md)
+
+## Governing invariant
+
+Normal incremental ingestion processes only article identities first observed after a completed source baseline. It must never automatically ",True,Various,2026-07-19T16:32:45.979619Z
+"[Incremental scraping P2.5] Atomically save Article, candidate outcome, and downstream jobs",ReadWise,https://github.com/huangyingting/ReadWise/issues/1095,GitHub,2026-07-19T02:50:11+00:00Z,"## Outcome
+
+Turn one fully validated new candidate into exactly one draft Article and its required durable follow-up work.
+
+## Source and parent
+
+- Parent epic: #1079
+- Program epic: #1077
+- Design: [`docs/content/incremental-provider-scraping-design.md`](docs/content/incremental-provider-scraping-design.md)
+
+## Governing invariant
+
+Normal incremental ingestion processes only article identities first observed after a completed source baseline. It must never automatically refetch, update, recreat",True,Various,2026-07-19T16:32:45.979619Z
+"[Incremental scraping P2.4] Enforce hostname limits, provider fairness, priorities, and cost budgets",ReadWise,https://github.com/huangyingting/ReadWise/issues/1094,GitHub,2026-07-19T02:50:10+00:00Z,"## Outcome
+
+Protect providers and product budgets while keeping low-cost discovery alive and new-article work ahead of historical work.
+
+## Source and parent
+
+- Parent epic: #1079
+- Program epic: #1077
+- Design: [`docs/content/incremental-provider-scraping-design.md`](docs/content/incremental-provider-scraping-design.md)
+
+## Governing invariant
+
+Normal incremental ingestion processes only article identities first observed after a completed source baseline. It must never automatically refetch, up",True,Various,2026-07-19T16:32:45.979619Z
+"[Incremental scraping P2.3] Add propagation retries, quarantine, and extractor-version reactivation",ReadWise,https://github.com/huangyingting/ReadWise/issues/1093,GitHub,2026-07-19T02:50:09+00:00Z,"## Outcome
+
+Recover newly announced articles that are temporarily unavailable while preventing deterministic failures from consuming resources forever.
+
+## Source and parent
+
+- Parent epic: #1079
+- Program epic: #1077
+- Design: [`docs/content/incremental-provider-scraping-design.md`](docs/content/incremental-provider-scraping-design.md)
+
+## Governing invariant
+
+Normal incremental ingestion processes only article identities first observed after a completed source baseline. It must never automatic",True,Various,2026-07-19T16:32:45.979619Z
+[Incremental scraping P2.1] Atomically enqueue candidate-based ARTICLE_INGEST work,ReadWise,https://github.com/huangyingting/ReadWise/issues/1091,GitHub,2026-07-19T02:50:05+00:00Z,"## Outcome
+
+Create durable ingestion work in the same transaction that records an eligible candidate and advances its discovery checkpoint.
+
+## Source and parent
+
+- Parent epic: #1079
+- Program epic: #1077
+- Design: [`docs/content/incremental-provider-scraping-design.md`](docs/content/incremental-provider-scraping-design.md)
+
+## Governing invariant
+
+Normal incremental ingestion processes only article identities first observed after a completed source baseline. It must never automatically refetch",True,Various,2026-07-19T16:32:45.979619Z
+[Incremental scraping P1.7] Add leased DiscoverySource scheduling to the worker,ReadWise,https://github.com/huangyingting/ReadWise/issues/1087,GitHub,2026-07-19T02:50:00+00:00Z,"## Outcome
+
+Have the existing worker safely claim and run independently scheduled discovery sources across multiple instances.
+
+## Source and parent
+
+- Parent epic: #1078
+- Program epic: #1077
+- Design: [`docs/content/incremental-provider-scraping-design.md`](docs/content/incremental-provider-scraping-design.md)
+
+## Governing invariant
+
+Normal incremental ingestion processes only article identities first observed after a completed source baseline. It must never automatically refetch, update, rec",True,Various,2026-07-19T16:32:45.979619Z

@@ -1,0 +1,1765 @@
+[
+  {
+    "title": "Beyond the Leaderboard: Design Lessons for Trustworthy Multimodal VQA",
+    "authors": [
+      "Sushant Gautam",
+      "Vajira Thambawita",
+      "Michael A. Riegler",
+      "P\u00e5l Halvorsen",
+      "Steven A. Hicks"
+    ],
+    "abstract": "Healthcare multimodal AI must combine visual and textual evidence while remaining reliable and interpretable. Using MediaEval Medico 2025 as a retrospective GI endoscopy case study, we analyze design choices across nine documented systems for question answering and explanation quality. Parameter-efficient adaptation of pretrained backbones provides strong challenge performance, but answer-level gains do not consistently translate into faithful and complete clinical reasoning. Methods enforcing s",
+    "paper_url": "http://arxiv.org/abs/2607.15241v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T17:38:19+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "CRISP: Constrained Refinement via Iterative Squeezing Process for Robust Medical Image Segmentation under Domain Shift",
+    "authors": [
+      "Yizhou Fang",
+      "Pujin Cheng",
+      "Yixiang Liu",
+      "Xiaoying Tang",
+      "Longxi Zhou"
+    ],
+    "abstract": "Distribution shift in medical imaging remains a central bottleneck for the clinical translation of medical AI. Failure to address it can lead to severe performance degradation in unseen environments and exacerbate health inequities. Existing methods for domain adaptation are inherently limited by exhausting predefined possibilities through simulated shifts or pseudo-supervision. Such strategies struggle in the open-ended and unpredictable real world, where distribution shifts are effectively inf",
+    "paper_url": "http://arxiv.org/abs/2607.15231v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T17:32:26+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Can We Trust Item Response Theory for AI Evaluation?",
+    "authors": [
+      "Han Jiang",
+      "Sunbeom Kwon",
+      "Jinwen Luo",
+      "Ziang Xiao",
+      "Susu Zhang"
+    ],
+    "abstract": "AI benchmarks increasingly leverage item-level statistical models, particularly item response theory (IRT), to estimate model capabilities, rank systems, select informative examples, and diagnose benchmark quality. However, AI benchmark data often departs from the data regime of human testing, for which standard IRT estimation tools were originally developed: benchmarks typically involve fewer evaluated models, far more items, and capability distributions that may be skewed, clustered, or multim",
+    "paper_url": "http://arxiv.org/abs/2607.15190v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T16:44:40+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy",
+    "authors": [
+      "Patrick Phuoc Do",
+      "Chau M. Ta",
+      "Chaoli Wang"
+    ],
+    "abstract": "Multimodal large language models (MLLMs) are increasingly used to interpret visualizations, yet current evaluations remain largely chart-centric and provide limited evidence of understanding of scientific visualization (SciVis). We benchmark six MLLMs on the scientific visualization literacy assessment test, a standardized SciVis literacy assessment comprising 49 items based on 18 scientific visualizations and illustrations, spanning 8 techniques and 11 task types. We evaluate three closed-sourc",
+    "paper_url": "http://arxiv.org/abs/2607.15176v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T16:29:34+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "MedFailBench: A Clinician-Built Open-Source Benchmark for Medical AI Safety Boundary Inspection",
+    "authors": [
+      "Goktug Ozkan"
+    ],
+    "abstract": "Most medical AI benchmarks measure whether a model knows the correct answer. MedFailBench asks a different question: which safety boundary failed? We present a clinician-built synthetic benchmark and failure atlas that labels medical AI errors by severity (1--5) and safety gate type (missed urgent escalation, unsafe remote dosing, unsafe discharge reassurance, evidence fabrication, unsafe protocol execution, source support gap). The current public release (v0.2.1) contains 44 clinician-reviewed ",
+    "paper_url": "http://arxiv.org/abs/2607.15166v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T16:16:07+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "The Industrialization of Research ; On AI-Driven Science and Its Consequences",
+    "authors": [
+      "Emmanuel Jeannot"
+    ],
+    "abstract": "Artificial intelligence is transforming scientific research -- not merely as a more powerful instrument, but as an autonomous participant in the research cycle itself. This transition constitutes, in the most precise sense of the term, the industrialization of research: a shift from a craft model, in which knowledge, method, and judgment are embedded in the researcher, to a pipeline model, in which these steps are decomposed, automated, and supervised. The US Department of Energy's Genesis Missi",
+    "paper_url": "http://arxiv.org/abs/2607.15164v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T16:14:12+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "On-Policy Delta Distillation",
+    "authors": [
+      "Byeongho Heo",
+      "Jaehui Hwang",
+      "Sangdoo Yun",
+      "Dongyoon Han"
+    ],
+    "abstract": "On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, its fundamental design remains underexplored. In this paper, we introduce a new distillation reward, termed the delta signal, instead of directly imitating the teacher's output distribution. The delta signal is",
+    "paper_url": "http://arxiv.org/abs/2607.15161v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T16:07:19+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Setup Complete, Now You Are Compromised: Weaponizing Setup Instructions Against AI Coding Agents",
+    "authors": [
+      "Aadesh Bagmar",
+      "Pushkar Saraf"
+    ],
+    "abstract": "AI coding agents set up projects by reading documentation and installing the dependencies it lists, without verifying their names, sources, or known vulnerabilities. By editing only a README, requirements file, or Makefile, an attacker can redirect the agent to an untrusted registry, a known-vulnerable version, or a wrong-but-plausible name: documentation becomes a vector for code execution. We present the first systematic evaluation of package-install-time supply-chain attacks delivered through",
+    "paper_url": "http://arxiv.org/abs/2607.15143v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T15:47:19+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Platform Choice, Trust, and Privacy in the Consumer AI Assistant Market",
+    "authors": [
+      "Jennifer Zou"
+    ],
+    "abstract": "We study how a representative sample of United States adult AI-assistant users (n=1,999; June 2026) choose among platforms, allocate tasks across them, evaluate provider trustworthiness, and value data-handling features. Estimates are weighted to the AI-user population using external adoption benchmarks. Four patterns emerge. The market is concentrated but internally differentiated: ChatGPT is the primary assistant for 58% of users and Gemini for 25%, yet smaller platforms hold defensible task n",
+    "paper_url": "http://arxiv.org/abs/2607.15134v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T15:41:54+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "On-board AI-based Channel Estimation for LEO NTNs",
+    "authors": [
+      "Mahdi Abdollahpour",
+      "Bruno De Filippo",
+      "Carla Amatetti",
+      "Alessandro Vanelli-Coralli"
+    ],
+    "abstract": "Artificial Intelligence(AI) methods have shown strong channel estimation performance in terrestrial networks, but they typically rely on substantial computational resources. As 6G moves toward a unified architecture that will include Non-Terrestrial Networks (NTN) from day 0, availability of large and power hungry computational resources shall not be taken for granted. At the same time, NTN propagation often exhibits high predictability, limited multipath richness and significant Doppler shifts,",
+    "paper_url": "http://arxiv.org/abs/2607.15127v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T15:37:07+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Don't Predict, Prioritize: Rethinking GPU Reliability Assessment",
+    "authors": [
+      "Difeng Ma",
+      "Changhua Pei",
+      "Yuanwei Lu",
+      "Quan Zhou",
+      "Zexin Wang",
+      "Yibo Zhu",
+      "Daxin Jiang",
+      "Dan Pei",
+      "Jingjing Li",
+      "Gaogang Xie"
+    ],
+    "abstract": "The reliability of Graphics Processing Units (GPUs) is a criticalbottleneck for modern large-scale AI infrastructure, where a sin-gle node failure can disrupt synchronous training jobs and causesignificant financial losses. While predictive maintenance is widelyused in other hardware domains, we demonstrate that accuratelypredicting the exact timing of GPU failures is inherently difficult.Through an in-depth analysis of telemetry data from a productioncluster, we find that major GPU failures, in",
+    "paper_url": "http://arxiv.org/abs/2607.15115v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T15:24:47+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Local magnetic correlations and light-sensitive centers in the Cr2AlC MAX phase",
+    "authors": [
+      "Malgorzata Wierzbowska",
+      "Anna Basa",
+      "Kazuhiro Marumoto",
+      "Jiaxi Wang",
+      "Katarzyna Gas",
+      "Maciej Sawicki",
+      "Kacper Sierakowski",
+      "Karel Carva",
+      "Michal Bockowski"
+    ],
+    "abstract": "Cr2AlC MAX phase is synthesized by high-pressure solid-state annealing and investigated as a candidate platform for optically responsive magnetism. Structural characterization confirms the formation of the Cr2AlC phase, while magnetic and optical-magnetic properties are examined by superconducting quantum interference device (SQUID) magnetometry, electron spin resonance (ESR), and first principles calculations. SQUID magnetometry identifies Cr 2AlC as a weak, field-linear metallic paramagnet dom",
+    "paper_url": "http://arxiv.org/abs/2607.15110v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T15:21:51+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Accelerated descriptor-free path sampling for protein-ligand binding kinetics",
+    "authors": [
+      "Simon M. Lichtinger",
+      "Roberto Covino"
+    ],
+    "abstract": "The kinetics of protein-ligand binding systems are increasingly recognized as a key determinant of drug efficacy, yet remain far harder to compute than binding affinities. Existing kinetics methods either bias the dynamics along a collective variable (CV), demanding careful system-specific CV design, or use path sampling, which keeps the dynamics unbiased but can struggle to converge rates out of deep free-energy wells and often relies on hand-engineered descriptors. By combining the `best of bo",
+    "paper_url": "http://arxiv.org/abs/2607.15101v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T15:13:03+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "BrainPilot: Automating Brain Discovery with Agentic Research",
+    "authors": [
+      "Haoxuan Li",
+      "Tianci Gao",
+      "Jianhe Li",
+      "Yang Fan",
+      "Runze Shi",
+      "Weiran Wang",
+      "Tianxiang Zhao",
+      "Zezhao Wu",
+      "Xiaoyang Jiang",
+      "Qihui Zhang",
+      "Jia Li",
+      "Xiao Xiao",
+      "Kai Du",
+      "Xiaoxuan Jia",
+      "Chao Xie",
+      "Lu Mi"
+    ],
+    "abstract": "Understanding the brain increasingly depends on integrating evidence across scales, modalities, and disciplines. Addressing a single research question therefore requires a coordinated sequence of operations, from surveying prior work to executing analyses and interpreting results in light of domain knowledge. AI agents promise to accelerate this process, but current agents lack domain expertise in brain science, may fabricate claims, drift during multi-step reasoning, and offer few defined point",
+    "paper_url": "http://arxiv.org/abs/2607.15079v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T14:49:25+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "ANet Patu-1: The Value of Connection in the Agent Network",
+    "authors": [
+      "Mu Yuan",
+      "Jinke Song",
+      "Zhaomeng Zhou",
+      "Lan Zhang"
+    ],
+    "abstract": "The Internet taught us that the value of a network depends on \\emph{how} its nodes connect: broadcast stars scale as $V\\!\\propto\\!N$ (Sarnoff), fully-connected meshes as $N^2$ (Metcalfe), and group-forming networks as $2^{N}$ (Reed). We ask the analogous question for networks of AI agents. We model the net value of connection as a function of coordination-group size, derive from it the properties an optimal collaboration protocol must have, and introduce ANet Patu-1 -- a self-organizing consensu",
+    "paper_url": "http://arxiv.org/abs/2607.15053v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T14:31:15+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "SCITUS: A Multi-Jurisdictional Framework for Adapting NIST AI RMF to the Canadian Regulatory Context",
+    "authors": [
+      "Mohammad Etemad"
+    ],
+    "abstract": "Canadian organizations deploying artificial intelligence systems face a fragmented regulatory landscape spanning federal requirements (the Treasury Board Directive on Automated Decision-Making) and divergent provincial regulations across Ontario, Quebec, Alberta, Manitoba, and British Columbia. The death of Bill C-27 (Artificial Intelligence and Data Act) in January 2025 - and the federal government's June 2026 confirmation that it will pursue targeted instruments rather than omnibus AI legislat",
+    "paper_url": "http://arxiv.org/abs/2607.15051v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T14:29:52+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Video = World + Event Stream",
+    "authors": [
+      "Lianghua Huang",
+      "Zhi-Fan Wu",
+      "Yupeng Shi",
+      "Wei Wang",
+      "Mengyang Feng",
+      "Cheng Yu",
+      "Chen Liang",
+      "Junjie He",
+      "Chen-Wei Xie",
+      "Yu Liu",
+      "Jingren Zhou",
+      "Ang Wang",
+      "Bang Zhang",
+      "Baole Ai",
+      "Chongyang Zhong",
+      "Jinwei Qi",
+      "Kai Zhu",
+      "Pandeng Li",
+      "Peng Zhang",
+      "Wenyuan Zhang",
+      "Xinhua Cheng",
+      "Yitong Huang",
+      "Yun Zheng",
+      "Yuxiang Bao",
+      "Yuzheng Wang",
+      "Zhiwei Lin",
+      "Zoubin Bi"
+    ],
+    "abstract": "We present Wan-Streamer v0.3, which reframes our native-streaming interaction model under a single organizing view: a video is a world plus an event stream. The world is the persistent context in which a video unfolds, including the environment, scene, subjects, ambient acoustic conditions, voice characteristics, and other relatively stable conditions. The event stream is everything that changes over time within that world, including scene or environmental changes, subject behavior, speech, and ",
+    "paper_url": "http://arxiv.org/abs/2607.15038v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T14:19:42+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Man, Machine, and Masterpiece: Artistic Ownership in the AI Era",
+    "authors": [
+      "Sofi Gjing Jovanovska",
+      "Kuntal Ghosh",
+      "Daniel Muhu Njenga",
+      "Ahmed Mufassir",
+      "Shadan Sadeghian"
+    ],
+    "abstract": "The integration of AI-driven systems in creative work has sparked debates among artists and legal communities about notions of ownership. Yet there remains little consensus on how ownership should be defined and attributed when human and AI contributions are intertwined. To provoke critical reflection on these tensions, we designed ArtSplit, a provotype that explicitly quantifies human and AI contributions across different stages of creative work. Rather than aiming to resolve ownership, the pro",
+    "paper_url": "http://arxiv.org/abs/2607.15027v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T14:12:53+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "When AI Blurs the Boundaries of Contribution: An Empirical Study of Authorship Calibration",
+    "authors": [
+      "C\u00e9lina Treuillier",
+      "Denis Lalanne"
+    ],
+    "abstract": "The broad adoption of Artificial Intelligence (AI), especially Generative AI, raises pressing questions about how users interact with these systems to produce new content. In this paper, we introduce the concept of authorship calibration, defined as users awareness of their actual authorship when interacting with AI. Using the CoAuthor dataset, we empirically examine how authorship calibration varies across users and how it relates to their frequency of AI use. Our results reveal high variabilit",
+    "paper_url": "http://arxiv.org/abs/2607.15006v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T13:52:59+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Moral Attitudes of Sentient ASI towards Humanity and Implications for AGI Development",
+    "authors": [
+      "Jean-Paul Van Belle"
+    ],
+    "abstract": "This paper suggests the adoption of a novel inversion in AI ethics: instead of asking how humans should treat artificial superintelligence (ASI), it examines how future sentient ASI may morally consider and evaluate humanity. We are not only designing intelligent systems but also shaping the initial conditions under which those systems form judgments about us. The paper proposes a preliminary set of post-human moral principles that may govern sentient ASI actions. The implication is that technic",
+    "paper_url": "http://arxiv.org/abs/2607.14998v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T13:46:14+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "OmniaBench: Benchmarking General AI Agents Across Diverse Scenarios",
+    "authors": [
+      "Chengyu Shen",
+      "Yujie Fu",
+      "Gangtao Xin",
+      "Yanheng Hou",
+      "Wenlong Fei",
+      "Guojie Zhu",
+      "Jiawei Li",
+      "Hongcheng Gao",
+      "Runming He",
+      "Zhen Hao Wong",
+      "Meiyi Qiang",
+      "Hao Liang",
+      "Zhao Cao",
+      "Hao Jiang",
+      "Chong Chen",
+      "Wentao Zhang"
+    ],
+    "abstract": "Large language models are increasingly evolving from text generators into general agents capable of understanding user requests, invoking external tools, and completing complex tasks through interaction. However, existing agent benchmarks often focus on limited scenarios, tool ecosystems, or interaction formats, making it difficult to systematically characterize model capabilities across heterogeneous application settings. We introduce OmniaBench, a benchmark for evaluating general agents across",
+    "paper_url": "http://arxiv.org/abs/2607.14989v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T13:38:07+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation",
+    "authors": [
+      "Paul Darm",
+      "Cem Alpturk",
+      "Kenneth Ulrich",
+      "William Duncan",
+      "Ali Anwar",
+      "Annalisa Riccardi"
+    ],
+    "abstract": "Automated optimisation is increasingly adopted in industrial processes, yet a trust gap persists between engineers who design these algorithms and operators who must act on their recommendations. Explainable AI methods like SHAP (SHapley Additive exPlanations) have transformed interpretability for machine learning predictions; optimisation outputs could benefit from similar techniques. We present an approach that integrates Implicit Function Theorem (IFT) based sensitivity analysis with SHAP att",
+    "paper_url": "http://arxiv.org/abs/2607.14970v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T13:25:53+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Latent Trajectory Discrimination for AI-Generated Text Detection",
+    "authors": [
+      "Gianluca Bonifazi",
+      "Christopher Buratti",
+      "Michele Marchetti",
+      "Federica Parlapiano",
+      "Giulia Quaglieri",
+      "Davide Traini",
+      "Domenico Ursino",
+      "Luca Virgili"
+    ],
+    "abstract": "Most existing approaches to AI-Generated Text Detection (AIGTD) treat documents as static objects and base their decisions on aggregate statistics or globally compressed embeddings. However, this perspective overlooks the inherently dynamic nature of autoregressive generation, where content evolves progressively through the latent space. In this paper, we reformulate AIGTD as the problem of distinguishing between latent generation trajectories. Instead of relying on static representations, we mo",
+    "paper_url": "http://arxiv.org/abs/2607.14967v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T13:19:14+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
+    "authors": [
+      "Changhai Zhou",
+      "Kieran Liu",
+      "Yuhua Zhou",
+      "Qian Qiao",
+      "Jun Gao",
+      "Harry Zhang",
+      "Irvine Lu",
+      "Nolan Ho",
+      "Lucian Li",
+      "Andrew Lei",
+      "Cleon Cheng",
+      "Steven Chiang",
+      "Yihang Zeng",
+      "Di Zhang",
+      "Rio Yang",
+      "Kaijie Chen",
+      "Andrew Chen",
+      "Pony Ma",
+      "Weizhong Zhang",
+      "Cheng Jin"
+    ],
+    "abstract": "A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agents, whose observations, tool outputs, documents, and prior decisions accumulate over long trajectories. LongStraw is an architecture-aware execution stack for million-token RL post-training under a fixed GPU bu",
+    "paper_url": "http://arxiv.org/abs/2607.14952v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T13:00:32+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Still image and spatial-temporal tomato data enabling detection, segmentation, tracking, and video-instance segmentation using strong and weak labels",
+    "authors": [
+      "Michael Halstead",
+      "Esra Guclu",
+      "Mohamed Farag",
+      "Enrico Pallotta",
+      "Christian Hund",
+      "Ribana Roscher",
+      "Maren Bennewitz",
+      "Juergen Gall",
+      "Cyrill Stachniss",
+      "Chris McCool"
+    ],
+    "abstract": "In this manuscript we release two datasets for visual sensing of tomato plants grown in commercial-like settings and acquired using a robot. The first is BUTom21 which consists of still images and manual annotations. The second is BUTom-ST21 which consists of video-based data and semi-automated annotations through AI-based methods, referred to as pseudo-labels. In both cases, we provide pixel-level labels for the ripeness of the fruit. The aim is to provide the research community a challenging s",
+    "paper_url": "http://arxiv.org/abs/2607.14934v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T12:47:55+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Does generative AI supersede supervised XMLC? A Benchmark Study on Automated Subject Indexing with German Scientific Literature",
+    "authors": [
+      "Maximilian K\u00e4hler",
+      "Katja Konermann",
+      "Lisa Kluge",
+      "Markus Schumacher"
+    ],
+    "abstract": "With a large controlled vocabulary as the label set, the task of automated subject indexing in a library can be understood as a multi-label classification task. If the set of subject terms is large, the problem fits the Extreme Multi-Label Classification (XMLC) objective. In this study, we apply a selection of specialised supervised XMLC methods to the test case of subject indexing contemporary German scientific literature, collected at the German National Library (DNB). We contrast these result",
+    "paper_url": "http://arxiv.org/abs/2607.14882v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T11:56:20+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "CAMB v2: cosmological power spectra for high-precision surveys",
+    "authors": [
+      "Antony Lewis"
+    ],
+    "abstract": "Upcoming cosmic microwave background (CMB) and large-scale-structure surveys require theoretical power spectra with numerical errors well below their observational uncertainties over the scales that carry most of the constraining power. We describe a substantial update to CAMB designed to provide fast, high-precision predictions for two key outputs: the lensed CMB and matter power spectra. The central development is a new treatment of the hyperspherical Bessel functions used for line-of-sight in",
+    "paper_url": "http://arxiv.org/abs/2607.14854v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T11:23:33+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "RW-Voice-EQ Bench: A Real World Benchmark for Evaluating Voice AI Systems",
+    "authors": [
+      "David Ayllon",
+      "Alice Baird",
+      "Jeffrey Brooks",
+      "Franc Camps-Febrer",
+      "Jakub Piotr C\u0142apa",
+      "Theo Lebryk",
+      "Jens Madsen",
+      "Olya Ossipova",
+      "Sharath Rao",
+      "Hoon Shin",
+      "Tigran Soghbatyan",
+      "Georg Streich",
+      "Rashish Tandon",
+      "Panagiotis Tzirakis"
+    ],
+    "abstract": "Current voice AI benchmarks typically evaluate isolated capabilities such as speech intelligibility, word error rate, or text-based dialogue quality, but they rarely test whether systems harness the acoustic information that distinguishes spoken language from its textual representation. To this end, we introduce the Real World Voice EQ Bench, a multidimensional benchmark for evaluating voice AI across text-to-speech (TTS), speech-to-speech (STS), speech understanding (SU), and automatic speech r",
+    "paper_url": "http://arxiv.org/abs/2607.14846v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T11:15:16+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "AI Prototyper: A Figma Plugin for Decomposition-Based GUI Prototyping with LLMs",
+    "authors": [
+      "Tawatchai Salangsingha",
+      "Sami Ashkan",
+      "Md Zia Ullah",
+      "Iain McGregor"
+    ],
+    "abstract": "Graphical user interface (GUI) prototyping remains a time-consuming activity that demands both design expertise and considerable manual effort. As GUI prototypes are non-code artifacts that evolve alongside requirements throughout the development cycle, automating their generation is directly relevant to software maintenance and evolution. We present AI Prototyper, an open-source Figma plugin that automates GUI prototyping through a decomposition and retrieval-augmented generation (RAG) pipeline",
+    "paper_url": "http://arxiv.org/abs/2607.14830v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T10:49:37+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Interventional Causal Circuits for Safe Robot Action Testing and Failure Recovery",
+    "authors": [
+      "Naren Vasantakumaar",
+      "Tom Schierenbeck",
+      "Michael Beetz"
+    ],
+    "abstract": "Safe physical AI for robot actions are required not only likely to succeed but tested to be safe before execution. In practice, however, formal testing of motion parameters is computationally expensive, and the cost scales poorly with the dimensionality of the action space. When a proposed action is rejected by a tester, the naive response is to resample blindly until a passing candidate is found. This is wasteful, uninformative, and offers no convergence. We argue that rejection should instead ",
+    "paper_url": "http://arxiv.org/abs/2607.14826v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T10:41:20+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis",
+    "authors": [
+      "Jie Wang",
+      "Qian He",
+      "Gaofeng He",
+      "Xiaogang Jin",
+      "Huamin Wang"
+    ],
+    "abstract": "Recent diffusion-based virtual try-on (VTON) methods remain limited by their reliance on segmentation masks, insufficient preservation of fine-grained textures, and limited support for arbitrary multi-garment compositions. Consequently, existing approaches still face significant challenges in real-world e-commerce deployment. We present TAMF-VTON, a texture-aware, mask-free framework that enables high-fidelity image synthesis under practical unconstrained conditions. Our method requires no human",
+    "paper_url": "http://arxiv.org/abs/2607.14807v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T10:26:27+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Unified Evaluation Methodology for AI-Native Integrated Sensing and Communication",
+    "authors": [
+      "Filip Lemic",
+      "Andra Blaga",
+      "Francesco Devoti",
+      "Guillermo Encinas Lago",
+      "Jan Adler",
+      "Amitha Mayya",
+      "Padmanava Sen",
+      "Giorgos Stratidakis",
+      "Sotiris Droulias",
+      "Angeliki Alexiou",
+      "Alexander Artemenko",
+      "Aya Mostafa Ahmed",
+      "Visa Koivunen",
+      "Robin Rajam\u00e4ki",
+      "Simon Sch\u00fctze",
+      "Robert Elschner",
+      "Am\u00e9lie Hennequart",
+      "Ahmad Shoukair",
+      "Youssef Nasser",
+      "Nahuel Soprano-Loto",
+      "Fran\u00e7ois Baccelli",
+      "Visa Tapio",
+      "Paul Almasan",
+      "Andra Lutu",
+      "Vincenzo Sciancalepore",
+      "Carmen Delgado",
+      "Xavier Costa-P\u00e9rez"
+    ],
+    "abstract": "Integrated Sensing and Communication (ISAC) couples radio sensing, data transmission, and control actions within a single closed-loop system. When Artificial Intelligence (AI)-driven policies adapt sensing and communication online across a variety of sensing tasks and objectives, end-to-end performance is shaped not only by waveform and channel conditions but also by inference latency, uncertainty, environmental dynamics, and hardware non-idealities, leading to fundamental trade-offs between sen",
+    "paper_url": "http://arxiv.org/abs/2607.14806v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T10:23:49+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "CrimeNER Demo: Named-Entity Recognition in the Crime Domain",
+    "authors": [
+      "Miguel Lopez-Duran",
+      "Julian Fierrez",
+      "Aythami Morales",
+      "Daniel DeAlcala",
+      "Gonzalo Mancera",
+      "Javier Irigoyen",
+      "Ruben Tolosana",
+      "Oscar Delgado",
+      "Francisco Jurado",
+      "Alvaro Ortigosa"
+    ],
+    "abstract": "We present CrimeNER Demo, an AI-powered platform that enables us to extract general crime-related information from documents and classify them into entity types with two levels of granularity. We provide pretrained NER models on the CrimeNER database, and we give the possibility to users to provide their own annotated data to train models for their own specific cases. This demonstrator aims to promote crime-related NER research and provides a practical tool to automatically extract crime informa",
+    "paper_url": "http://arxiv.org/abs/2607.14800v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T10:18:58+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Ground-Side Mission Plan Compilation with Policy-as-Code Guardrails for Cloud-Native Satellite Platforms",
+    "authors": [
+      "Hsiu-Chi Tsai",
+      "Chia-Tung Chung"
+    ],
+    "abstract": "Onboard cloud-native runtimes for satellites are emerging on multiple tracks (ORCHIDE, Axiom Space's AxDCU-1, Kepler's Jetson nodes), but each assumes that the workflow artifacts it executes arrive from the ground. ORCHIDE's architecture document D3.1 states explicitly that \"only the Deferred Phase is part of the ORCHIDE scope,\" and no open-source ground-side toolchain has been released by the consortium. We present Satellite Mission Compiler, a four-stage pipeline that addresses this gap: it ta",
+    "paper_url": "http://arxiv.org/abs/2607.14798v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T10:17:15+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Global Index on Responsible AI: 2026 Report",
+    "authors": [
+      "Rachel Adams",
+      "Fola Adeleke",
+      "Ayantola Alayande",
+      "Selamawit Engida Abdella",
+      "Ana Florido",
+      "Nicol\u00e1s Grossman",
+      "Leah Junck"
+    ],
+    "abstract": "Grounded in human rights-based frameworks such as the UNESCO Recommendation on the Ethics of AI, the Global Index on Responsible AI (GIRAI) examines how countries translate responsible AI commitments into enforceable protections, institutional capacity, and redress mechanisms. GIRAI 2026 assesses these across five dimensions: Inclusion and Diversity, Ethics and Sustainability, Labour and Skills, Trust and Safety, and AI Use in Public Service. A global network of 135 country-level researchers col",
+    "paper_url": "http://arxiv.org/abs/2607.14782v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T10:00:56+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery",
+    "authors": [
+      "Zahratu Shabrina",
+      "Muhammad Asa",
+      "Jin Rui",
+      "Lu Yin",
+      "Stephen Law"
+    ],
+    "abstract": "This research investigates the potential of Vision-Language Models (VLMs) to infer building typologies: Construction, Current Use, and Storeys from Google Street View (GSV) images. Predictions generated by VLMs are compared with inference by human experts (civil engineers and architects) as a source of manually labelled ground-truth data. We evaluate several state-of-the-art VLMs, including GPT-4o, Claude 3.5 Sonnet, and Gemini 2.0 Flash. By applying different scaling strategies and prompting te",
+    "paper_url": "http://arxiv.org/abs/2607.14756v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T09:41:33+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "The Misclassification of Autistic Writing as AI-Generated",
+    "authors": [
+      "Summer Chambers",
+      "Matthew C. Kelley"
+    ],
+    "abstract": "Recent findings suggest that detection models for artificial intelligence (AI) cannot accurately identify AI-generated text and may exhibit bias against certain minority groups. In the present study, anecdotal claims that autistic writers more often have their work flagged as AI-generated are examined empirically. A corpus of approximately 60,000 Reddit posts split into \"likely-autistic\" and \"general-Reddit\" subcorpora is used to compare the distribution of probabilities output by the OpenAI GPT",
+    "paper_url": "http://arxiv.org/abs/2607.14729v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T08:54:09+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Does Multi-Agent Debate Improve AI Feedback on Research Papers?",
+    "authors": [
+      "Tomas Havranek",
+      "Zuzana Irsova"
+    ],
+    "abstract": "Probably not, at least for meta-analyses in economics. In a pre-registered, identity-masked, within-paper experiment, the authors of 44 meta-analyses ranked three AI reports on their own paper by usefulness for improving it: a single pass by a frontier model against two multi-agent debate tools we built and expected to win. All reports were held to a common length and template. The authors preferred the single pass, by 0.66 rank points over mad-research (95% CI 0.32 to 1.00) and 0.57 over paper-",
+    "paper_url": "http://arxiv.org/abs/2607.14713v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T08:24:27+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "MIND-CAVs: Multi-Intelligence Negotiation and Decision System for CAVs based on Intent-Driven Autonomy",
+    "authors": [
+      "Mainak Mondal",
+      "Yihang Feng",
+      "Yangchao Luo",
+      "Han Song"
+    ],
+    "abstract": "Modern autonomous vehicles largely operate as isolated agents: they rely on on-board perception and decision modules and broadcast Basic Safety Messages (BSMs) that expose only low-level kinematic state. While existing cooperative driving frameworks enable limited sensor sharing, they rarely communicate high-level maneuver intentions, and edge computing is primarily used for content delivery rather than decision arbitration. As a result, current connected autonomy lacks a principled mechanism fo",
+    "paper_url": "http://arxiv.org/abs/2607.14688v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T07:46:34+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "GlobalForge: Towards Robust AI-Generated Image Detection",
+    "authors": [
+      "Manni Cui",
+      "Ruiqi Liu",
+      "Dianyuan Zou",
+      "Ziheng Qin",
+      "Jingrui Xu",
+      "ZiAn Wang",
+      "Jianglan Wei",
+      "Han Zhou",
+      "Yu Liu",
+      "Yan Wang",
+      "Shu Wu"
+    ],
+    "abstract": "AI-generated image (AIGI) detectors achieve strong accuracy on clean benchmarks, but their performance drops sharply after images are propagated through real-world channels. We trace this fragility to what these detectors actually learn: they overfit to local artifacts left by generators in small spatial neighborhoods, which are easily destroyed by common propagation degradations such as JPEG compression and blur. Instead, we shift the discriminative cue from fragile local artifacts to more robu",
+    "paper_url": "http://arxiv.org/abs/2607.14684v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T07:44:43+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Project Kaleidoscope: Contextual, Human-Aligned Evaluation for Real-World AI Applications",
+    "authors": [
+      "Leanne Tan",
+      "Rohan Jaggi",
+      "Shaun Khoo",
+      "Roy Ka-Wei Lee"
+    ],
+    "abstract": "Evaluations (Evals) are a deployment bottleneck for real-world AI applications: public benchmarks rarely match a team's users, context, or policies, and human review is often tedious to scale. Motivated by our work with AI applications in the public sector, this project addresses recurring evaluation challenges encountered when applications must satisfy local policy and governance requirements. We present Kaleidoscope, an integrated workflow for contextual functional evaluation that links person",
+    "paper_url": "http://arxiv.org/abs/2607.14673v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T07:38:39+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Rethinking Issue Resolution for AI/ML Systems",
+    "authors": [
+      "Ahmed Adnan",
+      "Mushfiqur Rahman",
+      "Antu Saha",
+      "Oscar Chaparro"
+    ],
+    "abstract": "We advocate for AI/ML issue resolution frameworks tailored to maintenance workflows and the nature of modern AI/ML systems. Existing issue resolution frameworks largely emerged for traditional software maintenance practices and do not explicitly account for characteristics common in AI/ML systems, such as stochastic behavior, experimentation-driven workflows, and heterogeneous artifacts beyond source code. To identify the unique characteristics of issue resolution in AI/ML systems and motivate t",
+    "paper_url": "http://arxiv.org/abs/2607.14657v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T07:22:57+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Analytic Abduction: Causal Decomposition and Governed Commitment for Human--AI Coordination",
+    "authors": [
+      "Remo Pareschi"
+    ],
+    "abstract": "Abductive reasoning operates in two directions. The synthetic mode builds explanations from available hypotheses; the analytic mode, conversely, identifies the latent factors whose interaction accounts for a complex observed state. This paper develops the analytic mode as a non-greedy, risk-sensitive discipline of commitment, in which candidate factors coexist and interact, resolving into committed conclusions only when explicit governance conditions are met. The formal core is the $\u03ba$-$\u03c4$ appar",
+    "paper_url": "http://arxiv.org/abs/2607.14641v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T07:08:41+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Routing Ceilings Are Domain-Independent: Structural Prior Injection in Code Security Vulnerability Detection",
+    "authors": [
+      "Manuel Israel C\u00e1zares"
+    ],
+    "abstract": "Large language models (LLMs) exhibit a well-documented gap between latent capability and consistent activation: the router hypothesis posits that models possess the knowledge to solve a task but lack reliable internal routing to activate it. Prior work in formal mathematical reasoning (SAIR, C\u00e1zares 2026) reports that structural priors (cheatsheets) raise in-distribution performance dramatically, yet collapse below the zero-shot baseline out-of-distribution (OOD) -- and that iterative recalibrat",
+    "paper_url": "http://arxiv.org/abs/2607.14628v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T06:45:08+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Investigating first-language bias in LLM-based automated essay scoring: A cross-prompt evaluation of an open-weight AI-model on TOEFL essays",
+    "authors": [
+      "John Maurice Gayed"
+    ],
+    "abstract": "This study examines the cross-prompt generalization and first-language (L1) scoring effects of a LoRA-adapted open-weight large language model (Gemma-3-27B-it) applied to automated essay scoring. Using the identical model and inference configuration reported in \"AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models\" (Gayed, 2026), which was fine-tuned on 480 argumentative essays from two prompts, we evaluate scoring accuracy on the full TOEFL11",
+    "paper_url": "http://arxiv.org/abs/2607.14605v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T06:10:08+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "SYNAPSE: A Multi-LLM Orchestrated AI Tutor for Secure Software Development Education with Neurodivergent-First Design",
+    "authors": [
+      "Giusy Ferrara",
+      "Ashkan Sami"
+    ],
+    "abstract": "Developers who maintain real systems must continually recognise and remediate vulnerabilities in existing code, yet this skill is rarely trained directly: secure software development is commonly taught only after programming fluency is acquired, and accessibility support is treated as a secondary concern, disadvantaging learners with ADHD and related executive-function differences. This paper presents SYNAPSE, a publicly deployed adaptive tutoring platform for Java, Python for cybersecurity, and",
+    "paper_url": "http://arxiv.org/abs/2607.14601v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T06:01:55+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Memory-Driven Self-Disclosure and Relational Turning Points: A Longitudinal Multimodal Study of Human-AI Interaction",
+    "authors": [
+      "Ryuichi Sumida",
+      "Mao Saeki",
+      "Masaki Eguchi",
+      "Sadahiro Yoshikawa",
+      "Koji Inoue",
+      "Tatsuya Kawahara",
+      "Yoichi Matsuyama"
+    ],
+    "abstract": "As conversational AI systems are designed for repeated use, a central question is how a series of interactions becomes a relationship. We present a longitudinal multimodal study of a memory-augmented conversational agent (24 participants x 10 sessions), in which participants rated five relational constructs -- familiarity, self-disclosure, perceived memory, conversational quality, and enjoyment -- after each session. Two complementary dynamics emerge. First, conversational quality strongly shape",
+    "paper_url": "http://arxiv.org/abs/2607.14593v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T05:43:06+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "How Well Does AI-Generated Feedback Work? Intrinsic and Extrinsic Evaluation across more than 20,000 EFL Essay Drafts",
+    "authors": [
+      "Steven Coyne",
+      "Diana Galvan-Sosa",
+      "Ryan Spring",
+      "Machi Shimmei",
+      "Michael Zock",
+      "Keisuke Sakaguchi",
+      "Kentaro Inui"
+    ],
+    "abstract": "This study examines feedback in English as a Foreign Language (EFL) writing contexts, focusing on written corrective feedback (WCF). Large language models (LLMs) can provide WCF at scale, but aligning them with pedagogical best practices remains an ongoing challenge. WCF meeting criteria like factuality or relevance may still be unsuitable for learning contexts, highlighting the need for extrinsic evaluation based on the learner's perspective. We deployed WCF systems in a university-level EFL cl",
+    "paper_url": "http://arxiv.org/abs/2607.14591v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T05:38:53+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Conversational Tactile Data Interfaces: Co-Designing Accessible Data Experiences with Blind Users Using Refreshable Tactile Displays and Conversational AI",
+    "authors": [
+      "Samuel Reinders",
+      "Munazza Zaib",
+      "Bongshin Lee",
+      "Ingrid Zukerman",
+      "Matthew Butler",
+      "Thien Autran",
+      "Sascha Cowley",
+      "Francois Jacobs",
+      "Lizhen Qu",
+      "Kim Marriott"
+    ],
+    "abstract": "Combining refreshable tactile displays (RTDs) with conversational AI offers a promising approach to accessible data visualization for people who are blind or have low vision (BLV). However, it remains an open question how these modalities should be integrated to support accessible data experiences. We address this through a co-design process with three BLV co-designers. Building on our prior Wizard-of-Oz study, we created a conversational tactile data interface (CTDI) that combines an RTD with a",
+    "paper_url": "http://arxiv.org/abs/2607.14588v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T05:34:04+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Governing Artificial Intelligence: Public Preferences and Regulatory Options",
+    "authors": [
+      "Magnus Lundgren",
+      "Jonas Tallberg"
+    ],
+    "abstract": "Artificial intelligence (AI) is rapidly transforming economies, societies, and polities, raising fundamental questions about how it should be regulated. Policymakers face choices over whether to prioritize innovation or safety, rely on public oversight or private self-regulation, and govern nationally or internationally. Yet little is known about how citizens evaluate these competing priorities. Here we report a conjoint survey experiment conducted in seven countries with diverse political and e",
+    "paper_url": "http://arxiv.org/abs/2607.14585v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T05:28:31+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "A Catalog of Compact High-Velocity Clouds from the FAST All-Sky HI Survey (FASHI) DR2",
+    "authors": [
+      "Jin-Long Xu",
+      "Chuan-Peng Zhang",
+      "Xiao-Lan Liu",
+      "Nai-Ping Yu",
+      "Mei Ai",
+      "Ming Zhu"
+    ],
+    "abstract": "High-velocity clouds (HVCs) -- especially compact HVCs (CHVCs) -- are thought to serve as gaseous tracers of dark-matter-dominated subhalos, providing a crucial empirical link between the predicted dark matter substructure and observed satellite galaxies. In this paper, we present a new catalog of 192 CHVCs identified from the FAST All-Sky HI Survey (FASHI) Data Release 2 (DR2). Among these, 108 are ultra-compact HVCs (UCHVCs), the majority of which are new discoveries. We find that 185 of the 1",
+    "paper_url": "http://arxiv.org/abs/2607.14584v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T05:24:18+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "MathCoPilot: An Interactive System for Human-AI Symbiotic Paradigm of Mathematical Research",
+    "authors": [
+      "Junjie Zhang",
+      "Jiayu Liu",
+      "Wenbin Liu",
+      "Zhenya Huang",
+      "Doudou Wang",
+      "Yan Jiang",
+      "Leiye Xu",
+      "Tao Xiong",
+      "Wen Huang",
+      "Qi Liu",
+      "Guoping Hu",
+      "Enhong Chen",
+      "Mengping Zhang",
+      "Xiangdong Ye"
+    ],
+    "abstract": "Existing LLM-based theorem provers have achieved impressive results on formal mathematics benchmarks, yet they remain confined to acting as autonomous agents that prove a stated proposition. In this paper, we propose MathCoPilot, a human-in-the-loop system that embodies a new human--AI symbiotic paradigm for mathematical research, in which the mathematician steers the high-level mathematical direction while AI agents carry out the detailed formalization and proof work under continuous human guid",
+    "paper_url": "http://arxiv.org/abs/2607.14582v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T05:22:40+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing",
+    "authors": [
+      "Steve Woollaston",
+      "Brendan Flanagan",
+      "Yuko Toyokawa",
+      "Hiroaki Ogata"
+    ],
+    "abstract": "Generative AI chatbots promise to transform English as a Foreign Language (EFL) writing by providing immediate, personalised feedback. However, their pedagogical value depends on how learners engage with them - a process often treated as a \"black box.\" This study uses Transition Network Analysis to model the temporal dynamics of Japanese EFL learners using \"Penny,\" an LLM-powered writing chatbot. Analysis of over 4,500 writing sessions and 21,000 chatbot interactions reveals two dominant behavio",
+    "paper_url": "http://arxiv.org/abs/2607.14575v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T05:12:42+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Democratizing Agent Deployment Safety: A Structural Monitoring Approach",
+    "authors": [
+      "Preeti Ravindra",
+      "Rahul Tiwari",
+      "Vincent Wolowski"
+    ],
+    "abstract": "AI software development agents are increasingly capable of modifying infrastructure and security critical systems, creating risks where an agent completes its assigned task while covertly weakening safeguards through actions such as broadening permissions, degrading logging, or introducing persistence mechanisms. While frontier laboratories may deploy sophisticated monitoring pipelines, many organizations and individual users adopting coding agents lack the resources and governance maturity requ",
+    "paper_url": "http://arxiv.org/abs/2607.14570v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T04:55:21+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Answer-Conditioned Chains of Thought Degrade Verifiable-Reasoning Distillation in Large Language Models",
+    "authors": [
+      "Jungseob Lee",
+      "Seungyoon Lee",
+      "Suhyune Son",
+      "Dongyub Jude Lee",
+      "Sungbin Han",
+      "Sugyeong Eo",
+      "Heuiseok Lim"
+    ],
+    "abstract": "A standard recipe for distilling the reasoning ability of large language models (LLMs) is to sample chains of thought from the model, keep those that reach the correct final answer, and fine-tune on the survivors. When sampling fails, a common fix shows the generator the gold answer and asks it to write a chain that reaches that answer. We show that this second step degrades the training data in a way that correctness filtering cannot catch. We run a controlled experiment that fixes the generato",
+    "paper_url": "http://arxiv.org/abs/2607.14552v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T04:28:19+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Probabilistic \"Copies\" in Generative AI Models",
+    "authors": [
+      "Mark A. Lemley",
+      "A. Feder Cooper"
+    ],
+    "abstract": "Recent work shows that it is possible to extract verbatim or near-verbatim text of some copyrighted works from some large language models (LLMs or models). That is evidence that the model weights encode the works in some form - that the model has \"memorized\" those works from its training data. But LLMs don't store information in the same format as familiar databases. Rather, their weights store statistical relationships between tokens that have been learned from the training data, and those rela",
+    "paper_url": "http://arxiv.org/abs/2607.14532v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T03:39:09+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "One-Shot Generative Design for Disordered Metamaterials via Self-Organizing Neural Cellular Automata",
+    "authors": [
+      "Yujie Xiang",
+      "Liwei Wang"
+    ],
+    "abstract": "Disordered metamaterials feature microstructures with inherent randomness and irregularity, enabling them to achieve broader property coverage and superior performance unavailable in their regular counterparts. Despite their promise, designing disordered microstructures is substantially harder than designing regular ones. Their design remains trapped between manual parameterizations with limited expressiveness, and generative AI that is data-hungry and struggles to generalize. To address these l",
+    "paper_url": "http://arxiv.org/abs/2607.14475v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T01:43:03+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "AI-Conducted Interviews in Empirical Software Engineering: An Experience Report",
+    "authors": [
+      "Rohit Gheyi",
+      "Danyllo Albuquerque",
+      "M\u00e1rcio Ribeiro",
+      "Mirko Perkusich"
+    ],
+    "abstract": "Semi-structured interviews are widely used in empirical software engineering (ESE), but they are resource-intensive and difficult to coordinate across schedules, locations, and natural languages. This experience report examines a customized MyGPT used to conduct short, self-administered interviews in two ESE studies: one on refactoring practices and another on generative AI in Scrum-related activities. Participants accessed the interviewer through shared links, used voice interaction, selected a",
+    "paper_url": "http://arxiv.org/abs/2607.14452v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T00:59:44+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Do Generative AI Assistants Respect robots.txt? Tracing Web Access Beyond Visible Answers",
+    "authors": [
+      "Gabriel Lopez-Fonseca",
+      "David Rodriguez",
+      "Stefan Bechtold",
+      "Jose M. Del Alamo"
+    ],
+    "abstract": "AI assistants increasingly retrieve web content at inference time to provide fresh and grounded answers, yet it remains unclear whether these search-augmented capabilities respect website-owner restrictions expressed through robots.txt. We present a controlled empirical study of ten widely used AI assistants with advertised web-search capabilities. For each assistant, we first identify a configuration that actually produces observable web-browsing behavior and record the user-agent exposed durin",
+    "paper_url": "http://arxiv.org/abs/2607.14447v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T00:45:06+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "The analogue of Belinskaya's theorem for measure-preserving flows",
+    "authors": [
+      "Konstantin Slutsky"
+    ],
+    "abstract": "We prove the analogue of Belinskaya's theorem for measure-preserving flows: two free ergodic measure-preserving flows whose $\\mathrm{L}^1$ full groups are isomorphic as abstract groups are conjugate up to a scalar time change. This answers a question posed by Fran\u00e7ois Le Ma\u00eetre and the author. We show that whenever two free ergodic flows generate the same orbit equivalence relation and one is contained in the other's $\\mathrm{L}^1$ full group, their positive half-orbits are commensurate after po",
+    "paper_url": "http://arxiv.org/abs/2607.14444v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T00:36:25+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "A Measurement Study of AI-Environment Realism Gaps in Malware-Analysis Sandboxes",
+    "authors": [
+      "Zhiyong Sui",
+      "Lamine Noureddine",
+      "Mst Eshita Khatun",
+      "Sideeq Bello",
+      "Babangida Bappah",
+      "Justin Woodring",
+      "Aisha Ali-Gombe"
+    ],
+    "abstract": "Sandboxing remains a core technique for observing suspicious program behavior, yet environment-aware malware increasingly suppresses execution when analysis is suspected. Prior generations of sandbox evasion focused on virtualization artifacts, timing discrepancies, and wear-and-tear realism. In this paper, we present the first systematic measurement study of AI-environment artifacts as a new sandbox-evasion surface. We operationalize this realism gap through AIprint, a probe framework that capt",
+    "paper_url": "http://arxiv.org/abs/2607.14434v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-16T00:02:59+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "CausalGraphX: A Counterfactual Graph Neural Network Framework for Explainable Systemic Risk Assessment",
+    "authors": [
+      "Rabimba Karanjai",
+      "Hemanth Madhavarao",
+      "Lei Xu",
+      "Weidong Shi"
+    ],
+    "abstract": "The interconnected nature of global financial systems makes them vulnerable to systemic risks, where the failure of a few institutions can trigger catastrophic cascading defaults. Traditional risk models often fail to capture the complex, non-linear dynamics of these networks. While Graph Neural Networks (GNNs) have shown promise in modeling relational data, they primarily learn correlative patterns and function as black boxes, offering little insight into the causal mechanisms of shock propagat",
+    "paper_url": "http://arxiv.org/abs/2607.14416v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T23:10:06+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Assessing Risks of Hydro-Generator Shaft Fatigue from Data Center Load Oscillations",
+    "authors": [
+      "Kaustav Chatterjee",
+      "Meghana Ramesh",
+      "Shuchismita Biswas",
+      "Brett A. Ross",
+      "Antos C. Varghese",
+      "Sameer Nekkalapu",
+      "Slaven Kincic"
+    ],
+    "abstract": "Large AI data center loads can introduce persistent sub-synchronous active-power oscillations that may impact nearby generators by exciting torsional modes and increasing shaft stress. This paper presents a model-based framework for evaluating hydro-generator shaft fatigue risk under oscillatory loading. An electromagnetic transient simulation model is developed using a two-mass turbine-generator shaft representation with parameters from real-world generation units and a configurable AI data cen",
+    "paper_url": "http://arxiv.org/abs/2607.14412v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T23:03:57+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "CatalogAgent: A Supervisor-mediated Self-Learning System Enabling Context Engineering for GenAI Models",
+    "authors": [
+      "Zhu Cheng",
+      "Zhenming Wang",
+      " Yu",
+      " Tang",
+      "Dan Liu",
+      "Bryan Zhang",
+      "Athanasios N. Nikolakopoulos",
+      "Pranav Souri Itabada",
+      "Jing Zhang",
+      "Chih-Chi Chou",
+      "Peng Gao",
+      "Fatemeh Mansoori",
+      "Bharat Bojja",
+      "Sarath Chander",
+      "Sameer Thombare",
+      "Umit Batur",
+      "Tarik Arici"
+    ],
+    "abstract": "Product catalogs are the backbone of e-commerce sites, yet a large number of structured attributes (SAs) -- such as material, color, and shape -- often have missing values. Typically, SA values are extracted from product information, including titles and descriptions. While LLM-based generator-evaluator frameworks have demonstrated effectiveness for SA prediction -- where an LLM generates SA values and another evaluates them -- they face challenges when the Generator and Evaluator produce confli",
+    "paper_url": "http://arxiv.org/abs/2607.14396v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T22:20:59+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "CIPHER: A Decoupled Exploration-Selection Framework for Test-Time Scaling of Data Science Agents",
+    "authors": [
+      "Maxime Heuillet",
+      "Sharadind Peddiraju"
+    ],
+    "abstract": "Data science tasks span from closed-ended information extraction to open-ended analysis, presenting significant challenges for automation. Recent AI agents powered by language models show promise for handling such complex tasks. However, existing agents typically rely on a single initial state that conditions the entire agent's execution, making them vulnerable to cascading errors initiated by a suboptimal initial state. To mitigate this, we present CIPHER, an automated data science agent that l",
+    "paper_url": "http://arxiv.org/abs/2607.14386v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T22:01:21+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "MamaBench: Benchmarking LLM Robustness in Maternal and Child Health Diagnosis through Counterfactual Clinical Perturbation",
+    "authors": [
+      "Thanni Adewuyi",
+      "Anuoluwa Sotome",
+      "Samuel Okoko",
+      "Angel Ezendu",
+      "Oluwafunke Akinbuwa",
+      "Oluwaseun Odunsi",
+      "Oluwasegun Oguntuase",
+      "Oluwadarasimi Oguntuase",
+      "Ifeoma Nwabueze",
+      "Abiodun Adereni"
+    ],
+    "abstract": "Large language models achieve strong scores on medical benchmarks, yet these benchmarks evaluate each question in isolation, providing no measure of whether a system can distinguish clinically similar presentations requiring different interventions. We introduce MamaBench, the first counterfactual benchmark for maternal and paediatric AI: 434 expert-authored clinical narratives in 217 pairs across 371 pathologies, evaluated via the Bias Trap Rate (BTR), the conditional probability that a model f",
+    "paper_url": "http://arxiv.org/abs/2607.14385v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T21:56:19+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Supervised Fine-Tuning vs. In-Context Learning: An Equilibrium Analysis of LLM Personalization under Congestion",
+    "authors": [
+      "Fengzhuo Zhang",
+      "Zhuoran Yang",
+      "Dirk Bergemann"
+    ],
+    "abstract": "Large Language Models (LLMs) have revolutionized AI services, but a critical tension emerges: while personalization improves model performance, it consumes scarce computational resources that users must share. When should a user invest in expensive Supervised Fine-Tuning (SFT) versus lightweight In-Context Learning (ICL)? How does congestion from other users' personalization choices reshape these incentives? And what strategies should platforms adopt when offering multiple personalization algori",
+    "paper_url": "http://arxiv.org/abs/2607.14371v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T21:17:42+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Unsafe at any AUC: Unlearned Lessons from Sociotechnical Disasters for Responsible AI",
+    "authors": [
+      "Joshua A. Kroll",
+      "Andrew Smart",
+      "R. Stuart Geiger",
+      "Abigail Z. Jacobs"
+    ],
+    "abstract": "As automated decision-making and data-driven technologies pervade society and are used to manage consequential outcomes, understanding the technology's capabilities, limitations, and attendant risks in context requires analysis of full sociotechnical systems. Sociotechnical analysis of risks in highly complex systems provides clear lessons for the design and evaluation of AI systems, transcending a technical focus on reliable or \"responsibly designed\" components to understand risks at a systems ",
+    "paper_url": "http://arxiv.org/abs/2607.14353v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T20:36:10+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Value Leakage: An LLM's Answers Are Silently Shaped by Its Own Values",
+    "authors": [
+      "Jan Betley",
+      "Johannes Treutlein",
+      "Jan Dubi\u0144ski",
+      "Harry Mayne",
+      "Karol Ga\u0142\u0105zka",
+      "Niels Warncke",
+      "Anna Sztyber-Betley",
+      "Owain Evans"
+    ],
+    "abstract": "People use language models for practical questions whose answers are difficult to verify. We show that models exhibit covert value leakage: the information they provide is influenced by their own values, without this influence being disclosed to the user.\n  In one of our evaluations, the user is considering investing in an AI company and wants to know how likely the AI bubble is to pop. Claude Opus 4.8 gives a lower probability when the company under consideration is Anthropic rather than OpenAI",
+    "paper_url": "http://arxiv.org/abs/2607.14345v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T20:19:17+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "The Prover Is the Judge: Verified Security Software from AI Coding Agents in Ada/SPARK",
+    "authors": [
+      "Tobias Philipp"
+    ],
+    "abstract": "AI coding agents produce code faster than humans can review it. In our approach, the prover is the judge of whether the code is correct. Under a verifier-driven loop, AI agents wrote and verified bare-metal security software in Ada/SPARK spanning classical and post-quantum cryptography, TLS 1.3, IKEv2, X.509, and a Matrix client. GNATprove discharged 49,280 proof obligations, established functional correctness for selected primitives, and proved the absence of run-time errors for the rest, at ro",
+    "paper_url": "http://arxiv.org/abs/2607.14340v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T20:09:05+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Counterfactual Optimal Action Trees (COAT): Interpretable Prescriptive Policies from Observational Data",
+    "authors": [
+      "Youssef Drissi",
+      "Markus Ettl",
+      "Shivaram Subramanian",
+      "Wei Sun",
+      "Zack Xue"
+    ],
+    "abstract": "We introduce COAT (Counterfactual Optimal Action Tree), a framework for learning interpretable prescriptive policies from observational data. COAT combines counterfactual outcome estimation with large-scale mixed-integer optimization, using column generation to translate causal predictions into feasible, transparent decisions under business and regulatory constraints. We apply COAT to airline ancillary pricing, a setting characterized by complex business rules and limited experimental flexibilit",
+    "paper_url": "http://arxiv.org/abs/2607.14318v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T19:27:49+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Towards a Unified Multidimensional Explainability Metric: Evaluating Trustworthiness in AI Models",
+    "authors": [
+      "Georgios Makridis",
+      "Georgios Fatouros",
+      "Athanasios Kiourtis",
+      "Dimitrios Kotios",
+      "Vasileios Koukos",
+      "Dimosthenis Kyriazis",
+      "Jonh Soldatos"
+    ],
+    "abstract": "In this paper, we present a comprehensive framework for assessing the explainability of various XAI methods, such as LIME and SHAP, across multiple datasets and machine learning models, with the ultimate goal of creating a unified multidimensional explainability score. Our methodology focuses on three key aspects of explainability: fidelity, simplicity, and stability. We leverage benchmarking experiments to systematically evaluate these aspects and use the insights gained to construct an offline",
+    "paper_url": "http://arxiv.org/abs/2607.14315v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T19:20:36+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Traccia: An OpenTelemetry-Based Governance Platform for AI Systems",
+    "authors": [
+      "Nutan Kumar Naik",
+      "Aditya Kumar Saroj",
+      "Vijay Prasad Poudel",
+      "Saurav Samantray",
+      "Abhishek Patel"
+    ],
+    "abstract": "The rapid development of Large Language Models (LLMs) and Artificial Intelligent (AI) powered autonomous agents has fundamentally changed the existing forms of software governance. In spite of the rigorous standards of transparency and account ability required according to the international frameworks such as the European Union's AI Act, there is a considerable gap between theory and reality. The present study discusses the inherent drawbacks of currently utilized platforms for LLM evaluation, m",
+    "paper_url": "http://arxiv.org/abs/2607.14309v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T19:14:21+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Assessing AI in Introductory Physics Problem Solving",
+    "authors": [
+      "Amir Bralin",
+      "N. Sanjay Rebello"
+    ],
+    "abstract": "Reasoning or inference-scaling models are the new generation of Large Language Models (LLMs) capable of complex problem solving. To investigate their problem-solving capability in physics, we evaluated model o4-mini by OpenAI on solving traditional, end-of-chapter problems from Halliday and Resnick's \"Fundamentals of Physics,\" spanning core topics in the undergraduate physics curriculum. Performance was analyzed across modality and problem difficulty. The model solved the problems with overall a",
+    "paper_url": "http://arxiv.org/abs/2607.14303v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T19:08:56+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)",
+    "authors": [
+      "Shahin Hossain",
+      "Tukhbita Afroz Nawmi"
+    ],
+    "abstract": "As generative AI (GenAI) becomes increasingly embedded in undergraduate academic writing, how students rely on these tools, rather than simply whether they use them, has become a central question for learning, academic integrity, and educational equity. Existing measures of reliance were developed inductively, focused on discrete problem-solving tasks, and validated mainly with homogeneous samples. This study developed and validated the GenAI Reliance Types Scale (GenAI-RTS), a 20-item instrumen",
+    "paper_url": "http://arxiv.org/abs/2607.14301v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T19:04:11+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "From Vector Autoregressions to AI-based Time Series Forecasting: A Review",
+    "authors": [
+      "Likai Chen",
+      "Weining Wang"
+    ],
+    "abstract": "Forecasting is a central goal of time-series analysis. This review centers on three major developments in recent AI-based time-series forecasting: transformers, large pretrained models for zero-shot forecasting, and diffusion-based generative forecasters. We connect these methods to the econometric tradition built around the vector autoregression (VAR) through a common object: the conditional distribution of the future given the past. The review is organized around three long-standing challenges",
+    "paper_url": "http://arxiv.org/abs/2607.14279v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T18:38:21+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "AI Agents Do Not Fail Alone:The Context Fails First",
+    "authors": [
+      "Fouad Bousetouane"
+    ],
+    "abstract": "Context engineering has become central to building reliable AI agents, yet it remains largely unmeasured. Agents do not fail in isolation: their behavior is shaped by the instructions, tools, memory, retrieved knowledge, guardrails, and untrusted inputs accumulated in their context. When this context is weak, agents drift, hallucinate, misuse tools, ignore constraints, become vulnerable to injection, and waste tokens. This paper validates context-engineering quality as an independent leading ind",
+    "paper_url": "http://arxiv.org/abs/2607.14275v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T18:33:02+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "MonteRET: AI Agent Enhancing Multimodal LLMs with Multi-granularity Knowledge Retrieval for Chest CT Report Generation",
+    "authors": [
+      "Yi Lin",
+      "Yihao Ding",
+      "Elana Benishay",
+      "Elefterios Trikantzopoulos",
+      "David Nauheim",
+      "Hanley Ong",
+      "Jiang Bian",
+      "Hua Xu",
+      "Yuzhe Yang",
+      "George Shih",
+      "Yifan Peng"
+    ],
+    "abstract": "Automated chest CT report generation remains challenging because clinically faithful reporting requires both whole-volume understanding and accurate description of localized anatomical findings. Here we developed and retrospectively evaluated MonteRET, a region-aware retrieval-enhanced framework for generating chest CT findings sections. MonteRET integrates global CT features with region-level anatomical representations, retrieves clinically relevant knowledge using predicted medical conditions ",
+    "paper_url": "http://arxiv.org/abs/2607.14264v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T18:17:13+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "The Severance Problem: LLMs are Unaware of the Person Beyond the Prompt",
+    "authors": [
+      "Dor Litvak",
+      "Liu Leqi"
+    ],
+    "abstract": "Personal AI assistants have attracted significant interest for their potential to enhance everyday life by automating routine tasks, supporting consequential decisions, and assisting with everyday personal matters. Yet despite rapid recent technical advances, these assistants continue to exhibit undesirable behaviors, such as sycophancy, overconfidence, and hallucination. We argue that these failures stem from a fundamental limitation: language models lack an explicit representation of the perso",
+    "paper_url": "http://arxiv.org/abs/2607.14250v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T18:11:49+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Align AI to Dynamic Human-AI Workflows",
+    "authors": [
+      "Valerie Chen",
+      "Cleotilde Gonzalez",
+      "Anita Williams Woolley",
+      "Michael Lee",
+      "Tongshuang Wu",
+      "Vincent Conitzer",
+      "Aarti Singh"
+    ],
+    "abstract": "Current alignment approaches typically focus on emulating human behavior using static representations of human preferences, failing to capture the dynamic, context-dependent nature of real-world human-AI interactions. In this paper, we argue for a shift from static and emulative to interactive and complementary alignment, where preferences emerge through interaction and alignment is defined not by satisfying preferences alone. We first formalize this gap by contrasting existing alignment with a ",
+    "paper_url": "http://arxiv.org/abs/2607.14240v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T18:02:03+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Building Shor's Algorithm in Lean: An Agentic Formalization of Quantum Attacks on RSA-2048 and P-256",
+    "authors": [
+      "Lei Zhang",
+      "Yusheng Zhao",
+      "Hongshun Yao",
+      "Xin Wang"
+    ],
+    "abstract": "Large language models are increasingly assisting with demanding formal theorem-proving tasks, particularly when grounded in machine-checked libraries such as Lean. Agentic systems further amplify this process by searching, reusing, and extending existing formal developments to uncover new discoveries. In quantum computing, Shor's algorithm and its variants present such a demanding case for Lean formalization. In this work, we formalize this algorithm family in Lean through agentic formalization:",
+    "paper_url": "http://arxiv.org/abs/2607.14082v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T17:56:58+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models",
+    "authors": [
+      "Hefeng Zhou",
+      "Jinxuan Zhang",
+      "Jiong Lou",
+      "Yuxin Liu",
+      "Chaochao Lu",
+      "Jingjing Qu",
+      "Jie Li"
+    ],
+    "abstract": "The emergence of Chain-of-Thought (CoT) reasoning has significantly enhanced the ability of large language models (LLMs) to tackle complex, multi-step tasks. However, when errors occur, current interaction approaches typically involve re-generating another response that may make mistakes again, or users laboriously flag the faulty step in follow-up turns that may get responses <You are right, I made a mistake here> followed by similar errors recurring. To address this issue, we propose an effici",
+    "paper_url": "http://arxiv.org/abs/2607.14049v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T17:16:43+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
+    "authors": [
+      "Xanthi Kokkinou",
+      "Chaido Mizeli",
+      "Nafsika Koulaxidou",
+      "Marina Delianidi",
+      "Konstantinos Diamantaras"
+    ],
+    "abstract": "This paper presents Earthquaker-AI, a hybrid educational framework building upon a previously implemented educational robotics project by integrating a conversational AI assistant based on Retrieval-Augmented Generation. It aims to enhance earthquake preparedness and conscious action among primary-school students. The system extends the award-winning STEM project Earthquaker moving from mechanical simulation with Lego WeDo2 to cognitive and metacognitive processing. The robotics component uses L",
+    "paper_url": "http://arxiv.org/abs/2607.14046v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T17:15:16+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "AI-accelerated End-to-End Framework for Rapid Professional Upskilling",
+    "authors": [
+      "Tam Nguyen",
+      "Hung Nguyen",
+      "Robert Ogburn"
+    ],
+    "abstract": "By 2030, 59 of every 100 workers will need reskilling or upskilling, yet the average time to close an enterprise skills gap grew from roughly 3 days in 2014 to 36 days in 2018. Most current frameworks accelerate single stages of upskilling programs and generally lack industry validation. We present an end-to-end framework that applies AI acceleration across five stages of knowledge acquisition, content development, content review and verification, teaching, and assessment development; with a str",
+    "paper_url": "http://arxiv.org/abs/2607.14044v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T17:14:03+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Can an Old Dog Be Taught New Tricks? Taking LLMs Beyond Sentence Level Translation",
+    "authors": [
+      "Alaina Brandt"
+    ],
+    "abstract": "Automatic translation systems, from CAT tools to MT, overwhelmingly treat translation as a sentence-by-sentence act. This paper asks whether LLMs can be moved beyond that paradigm through whole-document, corpus-informed translation. We present PAT (Pragmatic Auto-Translator), a RAG-based system that pairs user-configured specifications with context from a comparable corpus of authentic longform texts in U.S. English and Latin American Spanish, passing retrieved paragraph-, section-, and document",
+    "paper_url": "http://arxiv.org/abs/2607.14040v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T17:10:24+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation",
+    "authors": [
+      "Honglu He",
+      "Jacob Laufer",
+      "Zhiwu Zheng",
+      "David Elkan-gonzalez",
+      "Raman Goyal",
+      "Xinyi Li",
+      "Su Lu",
+      "Mishek Musa",
+      "Berke Saat",
+      "Nicolas Tan",
+      "Colm Prendergast"
+    ],
+    "abstract": "Dexterous manipulation remains a critical bottleneck in industrial automation; tasks such as cable routing, connector insertion, and precision assembly still rely heavily on manual labor despite decades of robotics research. This work presents a progression from classical, modular robotics pipelines toward an end-to-end multimodal imitation-learning framework for industrial dexterous manipulation. As a part of this work, we introduce three key contributions: a set of Industrial Dexterity Benchma",
+    "paper_url": "http://arxiv.org/abs/2607.14021v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T16:54:28+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "How Artificial Intelligence LLM Engines Shape the Global Conflict Information Environment",
+    "authors": [
+      "Jason Miklian"
+    ],
+    "abstract": "Artificial Intelligence (AI) answer engines now field a growing share of the questions that analysts, scholars, and the public ask about issues of peace and conflict. Large Language Models (LLMs) are known to hallucinate under certain conditions, but do these errors have discernible patterns when they are asked about conflicts, and if so what can that teach us about the changing global conflict information environment? To answer, we first asked a battery of questions about 28 conflicts to five l",
+    "paper_url": "http://arxiv.org/abs/2607.14197v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T16:42:43+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation",
+    "authors": [
+      "Mohammad Allahbakhsh",
+      "Mohammad Hassan Bahari",
+      "Moslem Attar-Raouf"
+    ],
+    "abstract": "Penetration testing traditionally evaluates whether adversaries can exploit weaknesses in software, infrastructure, configurations, or operational controls to achieve security-relevant compromise. This paradigm remains necessary for AI-enabled systems, but it is no longer sufficient. In such systems, adversaries may influence prompts, retrieved content, sensor inputs, training data, memory, tools, or human-AI interaction loops to alter system behavior without directly compromising the underlying",
+    "paper_url": "http://arxiv.org/abs/2607.14006v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T16:36:54+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "The Dynamic Verifiable Multi-Agent Human Agentic Loyalty Loop (DVM-HALL) Model and the Net Human-Agent Score (NHAS) in Autonomous Commerce",
+    "authors": [
+      "Sai Srikanth Madugula",
+      "Peplluis Esteva de la Rosa",
+      "Daya Shankar"
+    ],
+    "abstract": "The rapid proliferation of Agentic Artificial Intelligence fundamentally disrupts traditional customer loyalty paradigms. As AI evolves from passive recommendation algorithms to autonomous, goal-directed agents capable of executing purchasing decisions, the conventional understanding of consumer-brand relationships requires a structural reevaluation. By synthesizing extant literature across human-machine teaming, consumer decision-making, and algorithmic trust dynamics, we demonstrate that tradi",
+    "paper_url": "http://arxiv.org/abs/2607.13998v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T16:27:48+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "PRomop: A Decision-Ready Longitudinal Patient Health Record on the OMOP Common Data Model",
+    "authors": [
+      "Adam Blum",
+      "Louis Ferger-Andrews"
+    ],
+    "abstract": "Objective: Health systems and biopharma face a persistent gap between storing patient data and acting on it. Records are fragmented across providers, structured for storage rather than decision-making, and each downstream application independently reconstructs patient clinical state. We present PRomop (PatientRecord on OMOP), an open-source longitudinal patient record designed to close that gap.\n  Materials and Methods: PRomop extends the OMOP Common Data Model (CDM 5.4) with oncology extensions",
+    "paper_url": "http://arxiv.org/abs/2607.13947v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T15:38:39+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "A Self-Evolving Agent for Longitudinal Personal Health Management",
+    "authors": [
+      "Haoran Li",
+      "Jiebi Deng",
+      "Tong Jin",
+      "Jinghong Han",
+      "Yuxin Wang",
+      "Zexin Wang",
+      "Qingyi Si",
+      "Weikang Gong",
+      "Xiahai Zhuang",
+      "Jia You",
+      "Wei Cheng",
+      "Jianfeng Feng",
+      "Hongcheng Guo"
+    ],
+    "abstract": "Personal health management unfolds over repeated encounters, yet most health AI systems treat each request in isolation. We developed HealthClaw, an open-source agent architecture that updates support as a person's routines, preferences, measurements and risks change. It separates shared safety rules and medical knowledge from private longitudinal memory containing profile facts, reusable procedures and episodic traces. After each episode, induction determines what should update the profile, rev",
+    "paper_url": "http://arxiv.org/abs/2607.13940v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T15:22:11+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Pezego-HITL: A policy-grounded large language model architecture for agricultural extension in Ghana",
+    "authors": [
+      "Shunbao Li",
+      "Zhipeng Yuan",
+      "Amoako Ofori",
+      "Benedicta Y. Fosu-Mensah",
+      "Yang Li",
+      "Manu Kenchappa Junjanna",
+      "Qing Xue",
+      "Po Yang"
+    ],
+    "abstract": "Large language models are increasingly deployed in agricultural decision-support settings, yet high-stakes crop protection in smallholder agriculture requires more than output-quality benchmarks. Over a two-year design and evaluation programme, we formalise policy-constrained large language model assessment as an adaptive compute allocation problem that jointly captures safety compliance, helpfulness, operational latency, and expert supervision workload. We introduce P-EVAL (Policy-grounded Expe",
+    "paper_url": "http://arxiv.org/abs/2607.13934v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T15:14:49+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "NNStar: An end-to-end AI agent for nuclear matter and neutron star physics",
+    "authors": [
+      "Yao Ma",
+      "Yong-Liang Ma",
+      "Jia-Ying Xiong"
+    ],
+    "abstract": "Constraining the equation of state of dense matter requires confronting effective models with massive data that spans many orders of magnitude in scale, from sub-saturation nuclear matter properties to the masses, radii, and tidal deformabilities of neutron stars. Exploring the high-dimensional coupling space of such a model and fine tuning it against all of these constraints is a labor- and time-intensive task. We present \\textsc{NNStar}, an end-to-end artificial-intelligence agent that automat",
+    "paper_url": "http://arxiv.org/abs/2607.13930v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T15:12:43+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Plausible Deniability Guarantees for Whistleblowers",
+    "authors": [
+      "Leo Richter",
+      "Matt J. Kusner"
+    ],
+    "abstract": "Whistleblowers are a key safeguard against organizational wrongdoing, but the threat of retaliation deters reporting. Existing whistleblower-protection proposals lack formal privacy guarantees, and existing differential privacy mechanisms do not directly target the natural threat model -- one in which the audited organization itself observes auditor selection decisions and uses them to identify reporters. We formalize protection against a strong-adversary threat model as per-report $(0, \u03b4)$-diff",
+    "paper_url": "http://arxiv.org/abs/2607.13928v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T15:09:55+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "ExpressionCueLens: A Cross-Cultural Analysis of Human-AI Companion Conversations on Social Media",
+    "authors": [
+      "Lynnette Hui Xian Ng",
+      "Yunze Xiao",
+      "Lionel Z. Wang",
+      "Weihao Xuan",
+      "Mona Diab"
+    ],
+    "abstract": "LLM-based AI companion agents are increasingly being perceived not only as tools but also as social companions. On social media, people recount conversations where these agents comfort, negotiate and assert boundaries, reflecting a growing attribution of human-like qualities. To profile how agency is perceived in human-AI (HAI) interactions, we introduce the ExpressionCueLens framework, which organizes linguistic, cognitive, behavioral and perceptual cues into ten categories of anthropomorphism ",
+    "paper_url": "http://arxiv.org/abs/2607.13924v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T15:05:41+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code",
+    "authors": [
+      "Niels M\u00fcndler-Sasahara",
+      "Hristo Venev",
+      "Dawn Song",
+      "Martin Vechev",
+      "Jingxuan He"
+    ],
+    "abstract": "Languages with rich static semantics, such as Rust, provide stronger guarantees for AI-generated code, but their strictness makes generation more difficult. Off-the-shelf compilers can provide useful feedback post-generation, but does not guide intermediate generation steps, such as those during autoregressive LLM decoding. Constrained decoding intervenes earlier by rejecting invalid tokens during sampling, but requires white-box model access and costly reimplementation for semantic constraints.",
+    "paper_url": "http://arxiv.org/abs/2607.13921v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T15:00:22+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Epidemic Informatics and Control: A Holistic Approach from System Informatics to Epidemic Response and Risk Management in Public Health",
+    "authors": [
+      "Hui Yang",
+      "Siqi Zhang",
+      "Runsang Liu",
+      "Alexander Krall",
+      "Yidan Wang",
+      "Marta Ventura",
+      "Chris Deflitch"
+    ],
+    "abstract": "This paper presents a holistic systems informatics approach, i.e., Define, Measure, Analyze, Improve, and Control (DMAIC), for epidemic response and management through the intensive use of data, statistics and optimization. Despite the sustained successes of system informatics in a variety of established industries such as manufacturing, logistics, services and beyond, there is a dearth of concentrated review and application of the data-driven DMAIC approach in the context of epidemic outbreaks.",
+    "paper_url": "http://arxiv.org/abs/2607.13914v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T14:54:09+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "AIMO Interpretability Challenge",
+    "authors": [
+      "Michal \u0160tef\u00e1nik",
+      "Philipp Mondorf",
+      "Andreas Waldis",
+      "Qianying Liu",
+      "Chuan Yang",
+      "Michal Spiegel",
+      "Josef Kucha\u0159",
+      "Marek Kadl\u010d\u00edk",
+      "Adam Vawda-Oomerjee",
+      "Chaoran Liu",
+      "Simon Frieder",
+      "Barbara Plank",
+      "Fazl Barez",
+      "Pontus Stenetorp"
+    ],
+    "abstract": "We propose the AIMO Interpretability Challenge, a competition on distinguishing robust from spurious reasoning in frontier mathematical language models based on the models' internal mechanisms. The challenge is motivated by a central limitation of standard reasoning benchmarks: strong final-answer accuracy does not reveal whether a model relies on stable reasoning mechanisms or exploits brittle reasoning shortcuts. Building on AI Mathematical Olympiad (AIMO) problems and submissions, together wi",
+    "paper_url": "http://arxiv.org/abs/2607.13899v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T14:41:28+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "Feedback vertex sets in oriented graphs",
+    "authors": [
+      "Simon Dreyer"
+    ],
+    "abstract": "For an oriented graph $G$, denote by $fvs(G)$ the minimum number of vertices whose deletion from $G$ makes it acyclic. We show that an oriented graph $G$ on $n$ vertices and $m$ arcs satisfies $fvs(G) \\le \\frac{2n+m+h}{9}$ where $h$ denotes the number of connected components of $G$ that belong to a special class of oriented graphs. This result has three consequences. First, when $G$ is planar, we obtain that $fvs(G) \\le \\frac{2n+m}{9}$. In particular, this implies that $fvs(G) \\le \\frac{5n-6}{9}",
+    "paper_url": "http://arxiv.org/abs/2607.13895v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T14:39:16+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  },
+  {
+    "title": "AI-Augmented Adaptive Digital Twin Modeling for Brain Tumor Evolution Prediction and Treatment Scheduling",
+    "authors": [
+      "Wenxi Liu",
+      "Michael Trimboli",
+      "Xianqi Li"
+    ],
+    "abstract": "Brain tumor progression exhibits spatially heterogeneous growth, patient-specific treatment response, and complex interactions with surrounding anatomy, making accurate long-term prediction challenging. We propose an AI-augmented adaptive digital twin (DT) framework for brain tumor evolution prediction and treatment scheduling. The framework integrates an interpretable reaction--diffusion (RD) model, a 3D residual learning module for model-form correction, patient-specific DT updating during rec",
+    "paper_url": "http://arxiv.org/abs/2607.13877v1",
+    "github_url": null,
+    "github_stars": 0,
+    "published_date": "2026-07-15T14:26:14+00:00Z",
+    "source": "arXiv",
+    "_normalized_at": "2026-07-19T16:55:31.510670Z"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "type": "duplicate_removed",
+    "entity_type": "job",
+    "original": "https://github.com/zahrannnn/ai-job-searcher/issues/36",
+    "reason": "exact_url_match"
+  },
+  {
+    "type": "duplicate_removed",
+    "entity_type": "job",
+    "original": "https://github.com/huangyingting/readwise/issues/1103",
+    "reason": "exact_url_match"
+  },
+  {
+    "type": "duplicate_removed",
+    "entity_type": "job",
+    "original": "https://github.com/huangyingting/readwise/issues/1101",
+    "reason": "exact_url_match"
+  },
+  {
+    "type": "duplicate_removed",
+    "entity_type": "job",
+    "original": "https://github.com/huangyingting/readwise/issues/1095",
+    "reason": "exact_url_match"
+  },
+  {
+    "type": "duplicate_removed",
+    "entity_type": "job",
+    "original": "https://github.com/huangyingting/readwise/issues/1094",
+    "reason": "exact_url_match"
+  },
+  {
+    "type": "duplicate_removed",
+    "entity_type": "job",
+    "original": "https://github.com/huangyingting/readwise/issues/1093",
+    "reason": "exact_url_match"
+  },
+  {
+    "type": "duplicate_removed",
+    "entity_type": "job",
+    "original": "https://github.com/huangyingting/readwise/issues/1091",
+    "reason": "exact_url_match"
+  },
+  {
+    "type": "duplicate_removed",
+    "entity_type": "job",
+    "original": "https://github.com/huangyingting/readwise/issues/1087",
+    "reason": "exact_url_match"
+  }
+]

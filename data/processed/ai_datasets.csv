@@ -1,0 +1,6751 @@
+title,description,dataset_url,downloads,likes,published_date,source_url,source_name
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
+fka/prompts.chat,"
+  
+  
+  a.k.a. Awesome ChatGPT Prompts
+
+
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+
+	
+		
+	
+	
+		📢 Notice
+	
+
+This Hugging Face dataset is a mirror. For the",https://huggingface.co/datasets/fka/prompts.chat,32026,9766,2026-07-19T04:12:25.000ZZ,https://huggingface.co/datasets/fka/prompts.chat,HuggingFace
+HuggingFaceFW/fineweb,"
+	
+		
+	
+	
+		🍷 FineWeb
+	
+
+
+    
+
+
+
+15 trillion tokens of the finest data the 🌐 web has to offer
+
+
+	
+		
+	
+	
+		What is it?
+	
+
+The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T toke",https://huggingface.co/datasets/HuggingFaceFW/fineweb,630645,2947,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb,HuggingFace
+Anthropic/hh-rlhf,"
+	
+		
+	
+	
+		Dataset Card for HH-RLHF
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This repository provides access to two different kinds of data:
+
+Human preference data about helpfulness and harmlessness from Tr",https://huggingface.co/datasets/Anthropic/hh-rlhf,32710,1831,2023-05-26T18:47:34.000ZZ,https://huggingface.co/datasets/Anthropic/hh-rlhf,HuggingFace
+Open-Orca/OpenOrca,"🐋 The OpenOrca Dataset! 🐋
+
+
+
+We are thrilled to announce the release of the OpenOrca dataset!
+This rich collection of augmented FLAN data aligns, as best as possible, with the distributions outlined i",https://huggingface.co/datasets/Open-Orca/OpenOrca,16820,1568,2025-02-19T07:32:36.000ZZ,https://huggingface.co/datasets/Open-Orca/OpenOrca,HuggingFace
+OpenAssistant/oasst1,"
+	
+		
+	
+	
+		OpenAssistant Conversations Dataset (OASST1)
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+In an effort to democratize research on large-scale alignment, we release OpenAssistant 
+Conversations (OASST",https://huggingface.co/datasets/OpenAssistant/oasst1,18176,1550,2023-05-02T13:21:21.000ZZ,https://huggingface.co/datasets/OpenAssistant/oasst1,HuggingFace
+openai/gsm8k,"
+	
+		
+	
+	
+		Dataset Card for GSM8K
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset ",https://huggingface.co/datasets/openai/gsm8k,925692,1449,2026-03-23T10:18:13.000ZZ,https://huggingface.co/datasets/openai/gsm8k,HuggingFace
+wikimedia/wikipedia,"
+	
+		
+	
+	
+		Dataset Card for Wikimedia Wikipedia
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Wikipedia dataset containing cleaned articles of all languages.
+The dataset is built from the Wikipedia dumps (https:",https://huggingface.co/datasets/wikimedia/wikipedia,229480,1302,2024-01-09T09:40:51.000ZZ,https://huggingface.co/datasets/wikimedia/wikipedia,HuggingFace
+HuggingFaceFW/fineweb-edu,"
+	
+		
+	
+	
+		📚 FineWeb-Edu
+	
+
+
+    
+
+
+
+1.3 trillion tokens of the finest educational data the 🌐 web has to offer
+
+Paper: https://arxiv.org/abs/2406.17557
+
+	
+		
+	
+	
+		What is it?
+	
+
+📚 FineWeb-Edu  datas",https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,346154,1208,2025-07-11T20:16:53.000ZZ,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu,HuggingFace
+gsdf/EasyNegative,"
+	
+		
+	
+	
+		Negative Embedding
+	
+
+This is a Negative Embedding trained with Counterfeit. Please use it in the ""\stable-diffusion-webui\embeddings"" folder.It can be used with other models, but the effe",https://huggingface.co/datasets/gsdf/EasyNegative,15534,1203,2023-02-12T14:39:30.000ZZ,https://huggingface.co/datasets/gsdf/EasyNegative,HuggingFace
+togethercomputer/RedPajama-Data-1T,"RedPajama is a clean-room, fully open-source implementation of the LLaMa dataset.",https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,1676,1180,2024-06-17T11:36:03.000ZZ,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T,HuggingFace
+FreedomIntelligence/medical-o1-reasoning-SFT,"
+	
+		
+	
+	
+		News
+	
+
+[2025/04/22] We split the data and kept only the medical SFT dataset (medical_o1_sft.json). The file medical_o1_sft_mix.json contains a mix of medical and general instruction data.",https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,10389,1150,2025-04-22T15:11:21.000ZZ,https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT,HuggingFace
+roneneldan/TinyStories,"Dataset containing synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary.
+Described in the following paper: https://arxiv.org/abs/2305.07759. 
+The models referr",https://huggingface.co/datasets/roneneldan/TinyStories,81774,1079,2024-08-12T13:27:26.000ZZ,https://huggingface.co/datasets/roneneldan/TinyStories,HuggingFace
+allenai/dolma,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research,https://huggingface.co/datasets/allenai/dolma,3623,1058,2024-04-17T02:57:00.000ZZ,https://huggingface.co/datasets/allenai/dolma,HuggingFace
+bigcode/the-stack,"
+	
+		
+	
+	
+		Dataset Card for The Stack
+	
+
+
+
+	
+		
+	
+	
+		Changelog
+	
+
+
+	
+		
+Release
+Description
+
+
+		
+v1.0
+Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note",https://huggingface.co/datasets/bigcode/the-stack,16889,1040,2023-04-13T12:15:50.000ZZ,https://huggingface.co/datasets/bigcode/the-stack,HuggingFace
+tatsu-lab/alpaca,"
+	
+		
+	
+	
+		Dataset Card for Alpaca
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+Alpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data",https://huggingface.co/datasets/tatsu-lab/alpaca,76214,1007,2023-05-22T20:33:36.000ZZ,https://huggingface.co/datasets/tatsu-lab/alpaca,HuggingFace
+databricks/databricks-dolly-15k,"
+	
+		
+	
+	
+		Summary
+	
+
+databricks-dolly-15k is an open source dataset of instruction-following records generated by thousands of Databricks employees in several 
+of the behavioral categories outlined ",https://huggingface.co/datasets/databricks/databricks-dolly-15k,40534,1001,2023-06-30T18:34:13.000ZZ,https://huggingface.co/datasets/databricks/databricks-dolly-15k,HuggingFace
+Nerfgun3/bad_prompt,"
+	
+		
+	
+	
+		Negative Embedding / Textual Inversion
+	
+
+
+
+
+	
+		
+	
+	
+		Idea
+	
+
+The idea behind this embedding was to somehow train the negative prompt as an embedding, thus unifying the basis of the nega",https://huggingface.co/datasets/Nerfgun3/bad_prompt,1829,957,2022-11-19T23:43:47.000ZZ,https://huggingface.co/datasets/Nerfgun3/bad_prompt,HuggingFace
+nvidia/PhysicalAI-Autonomous-Vehicles,"
+	
+		
+	
+	
+		PHYSICAL AI AUTONOMOUS VEHICLES
+	
+
+
+The PhysicalAI-Autonomous-Vehicles dataset provides one of the largest, geographically diverse collections of multi-sensor data empowering AV researcher",https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,239888,952,2026-05-06T21:55:22.000ZZ,https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles,HuggingFace
+lmsys/lmsys-chat-1m,"
+	
+		
+	
+	
+		LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+	
+
+This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.
+It is collected from 210K uniq",https://huggingface.co/datasets/lmsys/lmsys-chat-1m,6251,946,2024-07-27T09:28:42.000ZZ,https://huggingface.co/datasets/lmsys/lmsys-chat-1m,HuggingFace
+tiiuae/falcon-refinedweb,"
+	
+		
+	
+	
+		📀 Falcon RefinedWeb
+	
+
+Falcon RefinedWeb is a massive English web dataset built by TII and released under an ODC-By 1.0 license.
+See the 📓 paper on arXiv for more details. 
+RefinedWeb is b",https://huggingface.co/datasets/tiiuae/falcon-refinedweb,44088,938,2023-06-20T12:38:07.000ZZ,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,HuggingFace
